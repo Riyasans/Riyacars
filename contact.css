@@ -13,10 +13,9 @@ body {
 }
 #header{
     background-color:rgb(68, 97, 108);
-    background-image: url("lights-car-vehicle-244206.jpg");
     width: 100%;
     height: 100vh;
-    background-size:230vh 100vh;
+    background-size:70vh 70vh;
     background-repeat:no-repeat;
     
     
@@ -180,11 +179,9 @@ nav .fas{
 
 @media only screen and (max-width: 600px){
     #header{
-        background-image: url("lights-car-vehicle-244206.jpg");
-    
+        background-image: url("");
     }
 
-    
     .header-text{
         margin-top: 100%;
         font-size: 16px;
