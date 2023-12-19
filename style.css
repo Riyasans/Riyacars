@@ -9,15 +9,13 @@ html{
 }
 body {
     background:rgb(68, 97, 108);
-    background-image: url("pexels-photo-63764.jpeg");
     color:black;
 }
 #header{
     background-color:rgb(68, 97, 108);
     width: 100%;
     height: 100vh;
-    background-image: url("lights-car-vehicle-244206.jpg");
-    background-size:250vh 100vh;
+    background-size:70vh 70vh;
     background-repeat:no-repeat;
     
     
